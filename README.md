@@ -1,8 +1,11 @@
-- hi my name is Andre
-- i’m focus in projects in frontend
-- my new plan is learn every language used to frontent
-- i’m new in this world of programing but i’m leraning fast
-- you can reach me through this email andreluisp04@gmai.com
+Hey, I’m André!
+Frontend developer in the making, focused on building sleek and interactive web experiences.
+I’m on a mission to master every tool and language that powers the modern web—no limits, just growth.
+
+I might be new to the coding scene, but I’m leveling up fast and always pushing myself to create something cooler than yesterday.
+Wanna connect or collaborate? Hit me up: andreluisp04@gmail.com
+
+
 
 
 <!---
