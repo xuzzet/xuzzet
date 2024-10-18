@@ -26,7 +26,7 @@
 Aqui estão alguns dos meus projetos:
 
 - [MeowGrafias](https://github.com/xuzzet/MeowGrafias): Uma galeria de fotos de gatos que desenvolvi utilizando HTML, CSS e JavaScript.
-- [Café Padrao](link_para_o_repositorio): landpage para uma cafeteria
+- [Café Padrao](https://github.com/xuzzet/cafeteria-padrao): landpage para uma cafeteria
 
 ## Contribuições
 
