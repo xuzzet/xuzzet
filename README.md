@@ -2,7 +2,7 @@
 # André Pereira
 
 ## Sobre mim
-Tenho 21 anos e sou estudante de **Ciência da Computação** na **PUC Minas**.  
+Tenho 22 anos e sou estudante de **Ciência da Computação** na **PUC Minas**.  
 Atuo como **desenvolvedor front-end**, explorando a interseção entre design e tecnologia para criar aplicações funcionais, claras e intuitivas.  
 
 Encaro o código como um meio de expressão: cada projeto é uma oportunidade de traduzir ideias em experiências que possam ser usadas, compreendidas e apreciadas por outras pessoas.
